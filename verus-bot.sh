@@ -1,5 +1,3 @@
-echo 'bao tri'
-sleep 1100000
 #!/data/data/com.termux/files/usr/bin/bash
 : Date Tue Oct 22 15:12:35 +07 2024
 : hix By Dev dien
