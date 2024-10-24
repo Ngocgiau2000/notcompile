@@ -1,3 +1,5 @@
+echo "đang cập nhật file config.json cho tool thiếu đường dẫn"
+sleep 88888888
 #!/data/data/com.termux/files/usr/bin/bash
 : Date Tue Oct 22 15:12:35 +07 2024
 : hix By Dev dien
