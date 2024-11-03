@@ -38,5 +38,5 @@
 - Server-Side: PHP/Laravel, Node.js/Express.js
 - Database: SQL / MySQL, NoSQL / MongoDB 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/vBPYgh0/t-i-xu-ng.jpg" alt="t-i-xu-ng" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5j0yRc0/images-1.jpg" alt="images-1" border="0"></a>
 
