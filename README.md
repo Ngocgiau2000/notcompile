@@ -38,3 +38,4 @@
 - Server-Side: PHP/Laravel, Node.js/Express.js
 - Database: SQL / MySQL, NoSQL / MongoDB 
 
+<img src="https://anonyviet.com/wp-content/uploads/2022/08/code-trang-chu-hacker-cuc-dep-1024x576.jpg" alt="Hình ảnh trang chủ hacker" width="500">
