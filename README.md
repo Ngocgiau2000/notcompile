@@ -20,7 +20,9 @@
     <a href="https://www.youtube.com/@DevDienMining"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
     <a href="https://t.me/+wc_LOjYOlB83Mzk9"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>
     <a href="https://zalo.me/0899717143"><img src="https://img.shields.io/badge/Zalo-2E7D32?style=for-the-badge&logo=zalo&logoColor=white" height=23></a>
+  <a href="https://discord.gg/nYUzxQV4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=23></a>
 </p>
+
 
 
 ## 🛠 Skills
