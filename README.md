@@ -40,4 +40,4 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5j0yRc0/images-1.jpg" alt="images-1" border="0"></a>
 
-<a href="https://www.imagebam.com/view/MEX61UZ" target="_blank"><img src="https://thumbs4.imagebam.com/89/a2/5a/MEX61UZ_t.png" alt="tải xuống.png"/></a>
+<a href="https://www.imagebam.com/view/MEX61V3" target="_blank"><img src="https://thumbs4.imagebam.com/d7/5a/44/MEX61V3_t.png" alt="tải xuống.png"/></a><a href="https://www.imagebam.com/view/MEX61V4" target="_blank"><img src="https://thumbs4.imagebam.com/11/99/56/MEX61V4_t.png" alt="images.png"/></a>
