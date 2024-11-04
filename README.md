@@ -1,12 +1,10 @@
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Freddywhest/Freddywhest" alt="Freddywhest">  
-
 
 <h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Belanosima'%2C+sans-serif&weight=900&size=25&duration=3000&pause=2000&color=blue&width=435&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+DevDien;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Belanosima'%2C+sans-serif&weight=900&size=25&duration=3000&pause=2000&color=blue&width=435&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+DevDien+Vietnam;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 </h1>
 
